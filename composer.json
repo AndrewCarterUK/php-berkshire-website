@@ -1,0 +1,14 @@
+{
+    "require": {
+        "zendframework/zend-diactoros": "^1.1",
+        "nikic/fast-route": "^0.6.0",
+        "league/plates": "^3.1",
+        "league/commonmark": "^0.11.3",
+        "symfony/yaml": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "PHPBerks\\": "src/"
+        }
+    }
+}
