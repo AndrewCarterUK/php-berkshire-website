@@ -1,0 +1,12 @@
+-   speaker:    Joe Blogs
+    event:      phpberks-december
+    title:      My Talk Title
+    abstract: >
+        This is the abstract of my talk. This is the abstract of my talk. It is
+        the case that wrapped text will be folded into a single paragraph.
+
+-   speaker:    John Doe
+    event:      phpberks-december
+    title:      My Other Talk Title
+    abstract: >
+        This is a different abstract.
